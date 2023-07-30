@@ -18,4 +18,3 @@ The code aims to provides a complete encoding and decoding process compatible wi
   
   3). In Step 5 and 6 for decoding, sequencing data (data pool #1-#4 and reference pool) in "Raw reads" folder is provided in fastq format for reproducibility. Step 5 offers the algorithms for both before and after the "remedial process" so users can compare the difference. 
   
-  In addition, we provided codes to reproduce the statistical results demonstrated in our study. "Additional step 1: Primer Generation" executes 100 independent experiments of primer generation to study the distribution of count of elements in a primer library (Supplementary Fig. 8). 
