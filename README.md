@@ -18,6 +18,7 @@ The code aims to provides a complete encoding and decoding process compatible wi
   
   3). In Step 5 and 6 for decoding, sequencing data (data pool #1-#4 and reference pool) in "Raw reads" folder is provided in fastq format for reproducibility. Step 5 offers the algorithms for both before and after the "remedial process" so users can compare the difference. 
 
-Required Python packages to be installed:
-
+Required Python packages to be installed and the commands to install them:
+1. Primer3.  pip install primer3-py
+2. Reedsolo. 
   
