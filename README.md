@@ -17,4 +17,7 @@ The code aims to provides a complete encoding and decoding process compatible wi
   2). For the generation of reference and data DNA sequences (step 3 and 4), we built codes for the reproducibility of our results using existing text data to be encoded (provided in this branch). Users can also test with their own text data, but they should fill in their own file name in Line 7 of Step 1.
   
   3). In Step 5 and 6 for decoding, sequencing data (data pool #1-#4 and reference pool) in "Raw reads" folder is provided in fastq format for reproducibility. Step 5 offers the algorithms for both before and after the "remedial process" so users can compare the difference. 
+
+Required Python packages to be installed:
+
   
