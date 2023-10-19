@@ -1,5 +1,5 @@
 # SEEKER-encoding-and-decoding
-The code aims to provides a complete encoding and decoding process compatible with SEEKER for keyword search in DNA data storage
+The code aims to provides a complete encoding and decoding process compatible with SEEKER for keyword search in DNA data storage.
 
 
   This branch contains step-by-step procedures to implement the entire process from encoding text data to DNA sequences and decode sequencing reads to readable texts.
@@ -19,8 +19,10 @@ The code aims to provides a complete encoding and decoding process compatible wi
   3). In Step 5 and 6 for decoding, sequencing data (data pool #1-#4 and reference pool) in "Raw reads" folder is provided in fastq format for reproducibility. Step 5 offers the algorithms for both before and after the "remedial process" so users can compare the difference. 
 
 Required Python packages to be installed and the commands to install them:
-1. primer3.      pip install primer3-py
-2. reedsolo.     pip install reedsolo
+1. primer3.
+   pip install primer3-py
+3. reedsolo.
+   pip install reedsolo
 
 We also provided requirements.txt in this repository so all dependencies can be installed by running the following command:
 
