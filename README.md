@@ -20,8 +20,10 @@ The code aims to provides a complete encoding and decoding process compatible wi
 
 Required Python packages to be installed and the commands to install them:
 1. primer3.
+
    pip install primer3-py
-3. reedsolo.
+2. reedsolo.
+
    pip install reedsolo
 
 We also provided requirements.txt in this repository so all dependencies can be installed by running the following command:
